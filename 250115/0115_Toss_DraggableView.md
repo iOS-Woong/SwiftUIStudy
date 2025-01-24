@@ -3,6 +3,10 @@
 **과제: TOSS 앱의 감속 스크롤 바텀시트 + 바텀에서 떠있는(?)**
 
 
+https://github.com/user-attachments/assets/ab78be88-b9be-4560-807e-2d7d45206fcb
+
+
+
 ---
 
 ### 1. ZStack vs BottomSheet
@@ -50,9 +54,13 @@ extension View {
 
 ### 3. DraggableView의 구현
 
-![image.png](0115%20%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5%E1%84%83%E1%85%B5%2018184720cf9480d08babd74b4a94790e/image.png)
+![image](https://github.com/user-attachments/assets/aee115ba-c4ef-4223-b1d5-02adf607b4a2)
 
-[KakaoTalk_Video_2025-01-20-17-44-06.mp4](0115%20%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5%E1%84%83%E1%85%B5%2018184720cf9480d08babd74b4a94790e/KakaoTalk_Video_2025-01-20-17-44-06.mp4)
+
+https://github.com/user-attachments/assets/1ac93c6b-c9da-42da-a2be-392fd23c0d05
+
+
+
 
 ```swift
 // DraggableView 속성
