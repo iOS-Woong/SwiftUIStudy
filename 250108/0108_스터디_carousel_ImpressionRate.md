@@ -4,9 +4,11 @@
 
 **SwiftUI로 구현한 Carousel**
 
-<video width="600" controls>
-  <source src="/Users/kovihouseteam/Downloads/e99a2bee-9e7d-4d69-9f11-b99d12cded88_Export-a1992869-a64a-4959-afc8-61a5a732964c/0108 스터디 17684720cf9480199350d688e0a5688c/Simulator_Screen_Recording_-_iPhone_16_Pro_Max_-_2025-01-09_at_15.01.39.mov">
+<video width="600">
+  <source src="https://github.com/user-attachments/assets/54829979-9c8b-454b-a665-f743c1273c7f">
 </video>
+
+https://github.com/user-attachments/assets/54829979-9c8b-454b-a665-f743c1273c7f
 
 ---
 
@@ -112,9 +114,5 @@ SwiftUI와 UIKit을 통해서 각각의 UI로 구성 한다는 점에서 오는 
 
 **UIViewRepresentable로 재구성 해 본 Carousel**
 
-[Simulator Screen Recording - iPhone 16 Pro - 2025-01-09 at 15.02.08.mov](0108%20%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5%E1%84%83%E1%85%B5%2017684720cf9480199350d688e0a5688c/Simulator_Screen_Recording_-_iPhone_16_Pro_-_2025-01-09_at_15.02.08.mov)
 
-<video width="600" controls>
-  <source src="/Users/kovihouseteam/Downloads/e99a2bee-9e7d-4d69-9f11-b99d12cded88_Export-a1992869-a64a-4959-afc8-61a5a732964c/0108 스터디 17684720cf9480199350d688e0a5688c/Simulator_Screen_Recording_-_iPhone_16_Pro_Max_-_2025-01-09_at_15.01.39.mov" type="video/quicktime">
-</video>
-
+https://github.com/user-attachments/assets/89286ae7-5be9-446d-a2f0-c648c3b9b8e1
