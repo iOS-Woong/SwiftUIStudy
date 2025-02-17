@@ -2,9 +2,14 @@
 
 **과제:  유튜브뮤직 앱 펼쳐지는 플레이어**
 
-[KakaoTalk_Video_2025-02-14-14-50-58.mp4](0205%20%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5%E1%84%83%E1%85%B5%2019a84720cf9480b29a66c87a36c2ea10/KakaoTalk_Video_2025-02-14-14-50-58.mp4)
+## 1. 과제로 받은거
 
-[Simulator Screen Recording - iPhone 16 Pro - 2025-02-14 at 14.55.14.mov](0205%20%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5%E1%84%83%E1%85%B5%2019a84720cf9480b29a66c87a36c2ea10/Simulator_Screen_Recording_-_iPhone_16_Pro_-_2025-02-14_at_14.55.14.mov)
+https://github.com/user-attachments/assets/c9e42a2a-aa92-46ea-8ce6-f51eaa5f1c15
+
+## 2. 내가 구현한거
+
+https://github.com/user-attachments/assets/a7b875fe-b0a7-4971-a739-4f67d489fc8b
+
 
 ### 1. 아이디어
 
@@ -217,18 +222,16 @@ struct CustomTabView: View {
 }
 ```
 
-[Simulator Screen Recording - iPhone 16 Pro - 2025-02-17 at 10.06.51.mp4](0205%20%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5%E1%84%83%E1%85%B5%2019a84720cf9480b29a66c87a36c2ea10/Simulator_Screen_Recording_-_iPhone_16_Pro_-_2025-02-17_at_10.06.51.mp4)
+https://github.com/user-attachments/assets/22a0af14-f5f2-4f1c-bb76-72f4e0159a0e
 
-[화면 기록 2025-02-17 오전 10.13.44.mov](0205%20%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5%E1%84%83%E1%85%B5%2019a84720cf9480b29a66c87a36c2ea10/%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB_%E1%84%80%E1%85%B5%E1%84%85%E1%85%A9%E1%86%A8_2025-02-17_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_10.13.44.mov)
-
-- 실제로 탭을 전환할 때마다 뷰의 인스턴스와 함께 생성되고 뷰가 제거될 때 해제되는 것을 확인 할 수 있다.
+- 실제로 탭을 전환할 때마다 뷰의 인스턴스와 함께 생성되고 뷰가 제거될 때 상태가 메모리에서 해제되는 것을 확인 할 수 있다.
 - 상위 뷰(ContentView)에서 상태를 공유하여 이를 해결 해 줄 수 있겠지만…
 - 그렇게되면 4개의 탭의 여러가지 상태들이 ContentView에 공유되어야한다. 
 → 결론적으로 ContentView의 책임이 너무 커지게 되는 결과로 이어지게 될 것
 
 ### UITabbarController를 래핑해서 사용하는 방법
 
-[Simulator Screen Recording - iPhone 16 Pro - 2025-02-17 at 10.38.56.mp4](0205%20%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5%E1%84%83%E1%85%B5%2019a84720cf9480b29a66c87a36c2ea10/Simulator_Screen_Recording_-_iPhone_16_Pro_-_2025-02-17_at_10.38.56.mp4)
+https://github.com/user-attachments/assets/955e2300-4908-49d8-ad7d-969dd99d361b
 
 - 상태공유가 정상적으로 이루어진다.
 - UITabbarControlelr에서는 각 탭에 해당하는 뷰 컨트롤러가 한 번 생성된 후 계속 유지되기 때문
