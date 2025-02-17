@@ -222,7 +222,8 @@ struct CustomTabView: View {
 }
 ```
 
-https://github.com/user-attachments/assets/22a0af14-f5f2-4f1c-bb76-72f4e0159a0e
+https://github.com/user-attachments/assets/6a0b8843-d338-4e27-a1a6-e3e0ae1697e2
+
 
 - 실제로 탭을 전환할 때마다 뷰의 인스턴스와 함께 생성되고 뷰가 제거될 때 상태가 메모리에서 해제되는 것을 확인 할 수 있다.
 - 상위 뷰(ContentView)에서 상태를 공유하여 이를 해결 해 줄 수 있겠지만…
