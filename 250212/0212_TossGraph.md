@@ -2,6 +2,17 @@
 
 **과제: 토스 월별 소비내역 상세**
 
+
+
+https://github.com/user-attachments/assets/eaa851a2-9293-45e2-b216-e3ba7e0039a3
+
+
+
+https://github.com/user-attachments/assets/c1553934-4d76-4e97-8518-337a6af388dd
+
+
+
+
 ## 구현 아이디어
 
 1. 총지출액의 경우, `.contentTransition(.numericText())` 메서드를 활용하면 예시와 똑같이 구현 가능하다.
