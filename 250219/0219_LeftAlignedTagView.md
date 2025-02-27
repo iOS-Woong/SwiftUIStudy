@@ -2,6 +2,9 @@
 
 **과제: Left Aligned TagView**
 
+![image](https://github.com/user-attachments/assets/688c8964-1924-45c9-b08e-08928427f63b)
+
+https://github.com/user-attachments/assets/c4b8072d-429e-4713-b5a9-b864437bc3f4
 
 ### 1. 구현
 
