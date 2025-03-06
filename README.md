@@ -8,3 +8,4 @@ SwiftUI의 UI 구성 방법에 대한 공부
 - [0205 Youtube Expandable Music Player](https://github.com/iOS-Woong/SwiftUIStudy/blob/main/250205/0205_Youtube_Music_Player.md)
 - [0212 Toss Graph](https://github.com/iOS-Woong/SwiftUIStudy/blob/main/250212/0212_TossGraph.md)
 - [0219 Left Aligned TagView](https://github.com/iOS-Woong/SwiftUIStudy/blob/main/250219/0219_LeftAlignedTagView.md)
+- [0226 Slack CatchUp UI](https://github.com/iOS-Woong/SwiftUIStudy/blob/main/250226/0226_SlackCatchUp.md)
