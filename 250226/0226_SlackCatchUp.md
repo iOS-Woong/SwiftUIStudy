@@ -2,7 +2,12 @@
 
 **과제: Slack 따라잡기 UI**
 
-[KakaoTalk_Video_2025-03-06-14-42-53 (1).mp4](2%2026%201a584720cf94809485fbc36797164db8/KakaoTalk_Video_2025-03-06-14-42-53_(1).mp4)
+[과제로 받은거]
+
+https://github.com/user-attachments/assets/775b6834-0237-4b4e-ad22-4b914a14219f
+
+[만든거]
+
 
 ---
 
